@@ -1,3 +1,4 @@
+import { LocaleSwitcher } from "@/components/local-switcher";
 import { useTranslations } from "next-intl";
 
 export default function Home() {
@@ -7,6 +8,9 @@ export default function Home() {
       <h1 className="text-4xl font-bold text-zinc-800 dark:text-zinc-200">
         {t("title")}
       </h1>
+      <div className="absolute top-4 right-4">
+        <LocaleSwitcher />
+      </div>
     </div>
   );
 }
