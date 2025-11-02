@@ -1,5 +1,8 @@
 {
   "HomePage": {
     "title": "Welcome to Next.js 16 with Next-Intl!"
+  },
+  "LocaleLayout": {
+    "title": "Next-Intl v16 Example"
   }
 }

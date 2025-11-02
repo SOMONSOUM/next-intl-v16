@@ -1,5 +1,8 @@
 {
   "HomePage": {
     "title": "សូមស្វាគមន៍មកកាន់ Next.js ជំនាន់ទី១៦ ជាមួយ Next-Intl!"
+  },
+  "LocaleLayout": {
+    "title": "ឧទាហរណ៍ Next-Intl v16"
   }
 }
